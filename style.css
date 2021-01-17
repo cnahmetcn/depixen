@@ -1,0 +1,30 @@
+
+
+.farea {
+    width: 30%;
+    margin: 50px;
+    height: 450px;
+}
+
+.sarea {
+    width: 30%;
+    margin: 50px;
+    height: 400px;
+}
+
+
+.cardimage {
+    text-align: center;
+    font-size: 100px;
+}
+
+
+
+.status {
+    width: 20px;
+    height: 20px;
+    background-color: gray;
+    right: 0;
+    bottom: 0;
+    position: absolute;
+}
